@@ -3,10 +3,9 @@
 </h1>
 <div style="display: inline_block" align="center">
   <img height="140em" src= "https://github-readme-stats.vercel.app/api?username=LucasRossi3&theme=tokyonight"/>
-  <img height="140em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRossi3&hide=html&layout=compact&theme=tokyonight"/>
 </div>
 
-
+<h1 align="center">
  Hobbies:
 </h1>
 
