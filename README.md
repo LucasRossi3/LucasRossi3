@@ -2,7 +2,8 @@
  Olá! Bem vindo ao meu perfil. :wave:
 </h1>
 <div style="display: inline_block" align="center">
-  <img height="140em" src= "https://github-readme-stats.vercel.app/api?username=LucasRossi3&theme=tokyonight"/>
+  <img height="165em" src= "https://github-readme-stats.vercel.app/api?username=LucasRossi3&theme=tokyonight"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRossi3&theme=tokyonight"/>
 </div>
 
 <h2 align="center">
