@@ -6,6 +6,26 @@
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRossi3&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+
+## 🧭 Back-end:
+<div style="display: inline_block" align="center">
+ <img align="center" alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+ <img align="center" alt="Oracle SQL" height="47" width="70" src="https://user-images.githubusercontent.com/87160095/199339101-f632e940-ba2a-482b-8ddb-0de21785d7b1.svg"/>
+</div>
+
+## ⚙ Others:
+<div style="display: inline_block" align="center">
+ <img align="center" alt="Linux" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+ <img align="center" alt="Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+ <img align="center" alt="Figma" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+</div>
+
+## 📱 Mobile:
+<div style="display: inline_block" align="center">
+ <img align="center" alt="Dart" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+ <img align="center" alt="Flutter" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+</div>
+
 <h2 align="center">
   "Persistence is the shortest path to success". (Charles Chaplin)
 </h2>
