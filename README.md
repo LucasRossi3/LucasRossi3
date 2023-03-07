@@ -10,7 +10,7 @@
 </div>
 
 <details> 
- <summary><h2>🛠️ Linguagens e ferramentas</h2></summary>
+ <summary><h2>🛠️ Languages and tools </h2></summary>
  
 ## 🧭 Back-end:
 <div style="display: inline_block" align="center">
