@@ -17,6 +17,7 @@
  <img align="center" alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
  <img align="center" alt="Oracle SQL" height="47" width="70" src="https://user-images.githubusercontent.com/87160095/199339101-f632e940-ba2a-482b-8ddb-0de21785d7b1.svg"/>
   <img align="center" alt="Java" height="47" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="C#" height="47" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 </div>
 
 ## ⚙ Others:
